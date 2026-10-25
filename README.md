@@ -1,6 +1,6 @@
 # Book List
 
-## 필독서 목록
+## 독서 목록
 | No | Title | Author | Rating | 출판사 | 구매일 | 비고 | 
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 1	| 투자에 대한 생각 | 하워드 막스 | Columbia Business School |  |  |  | 
